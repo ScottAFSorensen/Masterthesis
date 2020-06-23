@@ -1,0 +1,13 @@
+python model_based_DQN.py
+sleep 60s
+python model_based_DQN.py
+sleep 60s
+python model_based_DQN.py
+sleep 60s
+python model_based_DQN.py
+sleep 60s
+python model_based_DQN.py
+sleep 60s
+python model_based_DQN.py
+sleep 60s
+python model_based_DQN.py
